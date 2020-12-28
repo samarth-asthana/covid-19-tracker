@@ -4,7 +4,7 @@ This tracker aims to show the numbers & trends of people affected, recovered and
 The Deployed app is here : https://gocoronagocovid19.netlify.app
 
 
-Development
+### Development
 
 To setup the app for development on your local machine, please follow the instructions below:
 
