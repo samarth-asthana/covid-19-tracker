@@ -1,13 +1,7 @@
-
+# covid-19-tracker
+This tracker aims to show the numbers & trends of people affected, recovered and deceased due to COVID-19.
+## Demo
 The Deployed app is here : https://gocoronagocovid19.netlify.app
-This tracker aims to show the numbers & trends of people affected, recovered and deceased due to COVID-19
-
-    
-Prerequisites clipboard
-
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
 
 
 Development
